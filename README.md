@@ -1,5 +1,5 @@
 # # A Random Network Model for Synaptic Plasticity
-This notebook provides Python code for simulating a [random network model for synaptic plasticity](https://arxiv.org/abs/1904.01817).
+[This notebook](./simulation.ipynb) provides Python code for simulating a [random network model for synaptic plasticity](https://arxiv.org/abs/1904.01817).
 
 <p align="center">
 <img src="evolFig.gif" /></a>
