@@ -1,5 +1,5 @@
 # A Spatial Small-World Model  for Synaptic Plasticity
-[This notebook](./simulation.ipynb) provides Python code for simulating a [spatial small-world model for synaptic plasticity arising from activity-based reinforcement](https://link.springer.com/chapter/10.1007/978-3-030-25070-6_8).
+[This notebook](./simulation.ipynb) provides the Python code for simulating a [spatial small-world model for synaptic plasticity arising from activity-based reinforcement](https://link.springer.com/chapter/10.1007/978-3-030-25070-6_8).
 
 <p align="center">
 <img src="evolFig.gif" /></a>
